@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300|Rozha+One');
+@import url('https://fonts.googleapis.com/css?family=Lato:300|Rozha+One');
+
+
+html, body {
+	margin: 0;
+}
+
+.dead-center {
+	margin-top: 160px;
+}
+
+p {
+	font-family: 'Rozha One', serif;
+	color: black;
+	text-align: center;
+	font-size: 100px;
+}
+
+p#credit {
+	font-family: 'Josefin Sans', sans-serif;
+	color: black;
+	font-size: 2em;
+}
+
+p#selector {
+	font-family: 'Lato', sans-serif;
+	color: #5AE5FE;
+	text-align: center;
+	font-size: 100px;
+}
+
+a {
+	text-decoration: none;
+	color: #EA3C8D;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: black;
+	color: #EA3C8D;
+}
